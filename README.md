@@ -1,4 +1,4 @@
-Online store- ruby on rails , spree2-2
+Online complete store- ruby on rails , spree2-2
 ============
 
 spree 2-2 stable tested with stripe and paypal payment, i18n
